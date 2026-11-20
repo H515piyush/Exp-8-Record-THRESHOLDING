@@ -120,7 +120,8 @@ plt.show()
 
 ### Original Grayscale Image
 
-<img width="277" height="255" alt="Screenshot 2026-11-19 193317" src="https://github.com/user-attachments/assets/c1df5632-01a1-4f37-9871-d9363e7e679c" />
+<img width="295" height="262" alt="Screenshot 2026-11-20 132852" src="https://github.com/user-attachments/assets/34a02a3c-a4a7-4708-bc33-02ead5393f09" />
+
 
 
 
@@ -129,7 +130,8 @@ plt.show()
 
 ### Global Thresholding
 
-<img width="306" height="297" alt="Screenshot 2026-11-19 193326" src="https://github.com/user-attachments/assets/a7d50ff6-7163-42e4-8022-3fb8e402d05f" />
+<img width="362" height="300" alt="Screenshot 2026-11-20 132858" src="https://github.com/user-attachments/assets/bfacc2d3-2cb6-4adc-ba3c-ca7121ca6a16" />
+
 
 - Original image is displayed.
 - Thresholded image is displayed.
@@ -138,7 +140,8 @@ plt.show()
 
 ### Adaptive Thresholding
 
-<img width="367" height="305" alt="Screenshot 2026-11-19 193331" src="https://github.com/user-attachments/assets/73612ff5-a82c-4d73-bf3f-6fb8718f162c" />
+<img width="326" height="315" alt="Screenshot 2026-11-20 132907" src="https://github.com/user-attachments/assets/ad5e928e-1eb7-4aae-8203-335254c6ae88" />
+
 
 - Original image is displayed.
 - Adaptive Mean Thresholded image is displayed.
@@ -148,7 +151,7 @@ plt.show()
 
 ### Otsu's Thresholding
 
-<img width="352" height="292" alt="Screenshot 2026-11-19 193337" src="https://github.com/user-attachments/assets/109251dd-1f5b-4de7-bb78-8b84f41989c3" />
+<img width="320" height="305" alt="Screenshot 2026-11-20 132903" src="https://github.com/user-attachments/assets/a12d856c-d98e-4f38-b5a6-1bca9a24ed6e" />
 
 - Original image is displayed.
 - Otsu segmented image is displayed.
